@@ -1,0 +1,172 @@
+city,product,revenue,profit,quantity
+ Atlanta,20in Monitor,37616.58,11284.974,342
+ Atlanta,27in 4K Gaming Monitor,192265.07,57679.52100000001,493
+ Atlanta,27in FHD Monitor,88194.12000000001,26458.236000000008,588
+ Atlanta,34in Ultrawide Monitor,183155.18,54946.554000000004,482
+ Atlanta,AA Batteries (4-pack),8421.119999999999,2526.3360000000002,2193
+ Atlanta,AAA Batteries (4-pack),7053.410000000001,2116.0230000000006,2359
+ Atlanta,Apple Airpods Headphones,189900.0,56970.0,1266
+ Atlanta,Bose SoundSport Headphones,108389.15999999999,32516.748,1084
+ Atlanta,Flatscreen TV,122100.0,36630.0,407
+ Atlanta,Google Phone,270600.0,81180.0,451
+ Atlanta,LG Dryer,35400.0,10620.0,59
+ Atlanta,LG Washing Machine,31200.0,9360.0,52
+ Atlanta,Lightning Charging Cable,28091.05,8427.315000000002,1879
+ Atlanta,Macbook Pro Laptop,644300.0,193290.0,379
+ Atlanta,ThinkPad Laptop,356996.43,107098.92900000002,357
+ Atlanta,USB-C Charging Cable,22884.25,6865.2750000000015,1915
+ Atlanta,Vareebadd Phone,69200.0,20760.0,173
+ Atlanta,Wired Headphones,18932.21,5679.663000000002,1579
+ Atlanta,iPhone,380800.0,114240.00000000003,544
+ Austin,20in Monitor,25297.699999999997,7589.31,230
+ Austin,27in 4K Gaming Monitor,124016.82,37205.046,318
+ Austin,27in FHD Monitor,53996.4,16198.920000000006,360
+ Austin,34in Ultrawide Monitor,124636.72,37391.016,328
+ Austin,AA Batteries (4-pack),5468.16,1640.448,1424
+ Austin,AAA Batteries (4-pack),4987.320000000001,1496.1960000000004,1668
+ Austin,Apple Airpods Headphones,133050.0,39915.0,887
+ Austin,Bose SoundSport Headphones,70692.93,21207.879,707
+ Austin,Flatscreen TV,72600.0,21780.0,242
+ Austin,Google Phone,164400.0,49320.0,274
+ Austin,LG Dryer,33000.0,9900.0,55
+ Austin,LG Washing Machine,15600.0,4680.0,26
+ Austin,Lightning Charging Cable,19539.649999999998,5861.895000000001,1307
+ Austin,Macbook Pro Laptop,426700.0,128010.0,251
+ Austin,ThinkPad Laptop,209997.9,62999.37000000002,210
+ Austin,USB-C Charging Cable,14949.449999999999,4484.835000000001,1251
+ Austin,Vareebadd Phone,43200.0,12960.0,108
+ Austin,Wired Headphones,13548.7,4064.6100000000015,1130
+ Austin,iPhone,263900.0,79170.00000000001,377
+ Boston,20in Monitor,43336.06,13000.818,394
+ Boston,27in 4K Gaming Monitor,263243.25,78972.975,675
+ Boston,27in FHD Monitor,119542.03000000001,35862.60900000001,797
+ Boston,34in Ultrawide Monitor,254973.29,76491.98700000001,671
+ Boston,AA Batteries (4-pack),11581.439999999999,3474.4320000000002,3016
+ Boston,AAA Batteries (4-pack),10348.390000000001,3104.5170000000007,3461
+ Boston,Apple Airpods Headphones,247950.0,74385.0,1653
+ Boston,Bose SoundSport Headphones,141585.84,42475.752,1416
+ Boston,Flatscreen TV,166200.0,49860.0,554
+ Boston,Google Phone,355800.0,106740.0,593
+ Boston,LG Dryer,35400.0,10620.0,59
+ Boston,LG Washing Machine,43200.0,12960.0,72
+ Boston,Lightning Charging Cable,37240.45,11172.135000000004,2491
+ Boston,Macbook Pro Laptop,814300.0,244290.0,479
+ Boston,ThinkPad Laptop,446995.53,134098.65900000004,447
+ Boston,USB-C Charging Cable,30603.949999999997,9181.185000000001,2561
+ Boston,Vareebadd Phone,85600.0,25680.0,214
+ Boston,Wired Headphones,26641.78,7992.534000000003,2222
+ Boston,iPhone,527100.0,158130.00000000003,753
+ Dallas,20in Monitor,37726.57,11317.971,343
+ Dallas,27in 4K Gaming Monitor,187585.19,56275.55700000001,481
+ Dallas,27in FHD Monitor,88044.13,26413.23900000001,587
+ Dallas,34in Ultrawide Monitor,194554.88,58366.46400000001,512
+ Dallas,AA Batteries (4-pack),8682.24,2604.672,2261
+ Dallas,AAA Batteries (4-pack),7486.960000000001,2246.0880000000006,2504
+ Dallas,Apple Airpods Headphones,179100.0,53730.0,1194
+ Dallas,Bose SoundSport Headphones,106289.37,31886.811,1063
+ Dallas,Flatscreen TV,126000.0,37800.0,420
+ Dallas,Google Phone,276600.0,82980.0,461
+ Dallas,LG Dryer,26400.0,7920.0,44
+ Dallas,LG Washing Machine,30600.0,9180.0,51
+ Dallas,Lightning Charging Cable,27866.8,8360.040000000003,1864
+ Dallas,Macbook Pro Laptop,649400.0,194820.0,382
+ Dallas,ThinkPad Laptop,344996.55,103498.96500000003,345
+ Dallas,USB-C Charging Cable,22131.399999999998,6639.420000000002,1852
+ Dallas,Vareebadd Phone,71200.0,21360.0,178
+ Dallas,Wired Headphones,20011.31,6003.393000000002,1669
+ Dallas,iPhone,363300.0,108990.00000000003,519
+ Los Angeles,20in Monitor,72373.42,21712.026,658
+ Los Angeles,27in 4K Gaming Monitor,391159.97000000003,117347.99100000001,1003
+ Los Angeles,27in FHD Monitor,183437.77000000002,55031.33100000002,1223
+ Los Angeles,34in Ultrawide Monitor,362890.45,108867.13500000001,955
+ Los Angeles,AA Batteries (4-pack),17041.92,5112.576,4438
+ Los Angeles,AAA Batteries (4-pack),14851.330000000002,4455.399000000001,4967
+ Los Angeles,Apple Airpods Headphones,370950.0,111285.0,2473
+ Los Angeles,Bose SoundSport Headphones,212478.75,63743.625,2125
+ Los Angeles,Flatscreen TV,218100.0,65430.0,727
+ Los Angeles,Google Phone,508800.0,152640.0,848
+ Los Angeles,LG Dryer,69600.0,20880.0,116
+ Los Angeles,LG Washing Machine,63000.0,18900.0,105
+ Los Angeles,Lightning Charging Cable,56391.399999999994,16917.420000000006,3772
+ Los Angeles,Macbook Pro Laptop,1276700.0,383010.0,751
+ Los Angeles,ThinkPad Laptop,640993.59,192298.07700000005,641
+ Los Angeles,USB-C Charging Cable,45194.899999999994,13558.470000000003,3782
+ Los Angeles,Vareebadd Phone,126800.0,38040.0,317
+ Los Angeles,Wired Headphones,39207.3,11762.190000000004,3270
+ Los Angeles,iPhone,782600.0,234780.00000000006,1118
+ New York City,20in Monitor,61594.399999999994,18478.32,560
+ New York City,27in 4K Gaming Monitor,328371.58,98511.47400000002,842
+ New York City,27in FHD Monitor,160789.28,48236.784000000014,1072
+ New York City,34in Ultrawide Monitor,329831.32,98949.39600000001,868
+ New York City,AA Batteries (4-pack),13939.199999999999,4181.76,3630
+ New York City,AAA Batteries (4-pack),12330.76,3699.228000000001,4124
+ New York City,Apple Airpods Headphones,314700.0,94410.0,2098
+ New York City,Bose SoundSport Headphones,179382.06,53814.618,1794
+ New York City,Flatscreen TV,188400.0,56520.0,628
+ New York City,Google Phone,454800.0,136440.0,758
+ New York City,LG Dryer,46200.0,13860.0,77
+ New York City,LG Washing Machine,51000.0,15300.0,85
+ New York City,Lightning Charging Cable,45462.95,13638.885000000004,3041
+ New York City,Macbook Pro Laptop,1116900.0,335070.0,657
+ New York City,ThinkPad Laptop,559994.4,167998.32000000004,560
+ New York City,USB-C Charging Cable,39064.549999999996,11719.365000000003,3269
+ New York City,Vareebadd Phone,112400.0,33720.0,281
+ New York City,Wired Headphones,32456.93,9737.079000000003,2707
+ New York City,iPhone,616700.0,185010.00000000006,881
+ Portland,20in Monitor,30577.219999999998,9173.166,278
+ Portland,27in 4K Gaming Monitor,169255.66,50776.698000000004,434
+ Portland,27in FHD Monitor,79494.70000000001,23848.410000000007,530
+ Portland,34in Ultrawide Monitor,153135.97,45940.791000000005,403
+ Portland,AA Batteries (4-pack),7445.759999999999,2233.728,1939
+ Portland,AAA Batteries (4-pack),6219.200000000001,1865.7600000000004,2080
+ Portland,Apple Airpods Headphones,164850.0,49455.0,1099
+ Portland,Bose SoundSport Headphones,88891.11,26667.333,889
+ Portland,Flatscreen TV,93600.0,28080.0,312
+ Portland,Google Phone,213000.0,63900.0,355
+ Portland,LG Dryer,22200.0,6660.0,37
+ Portland,LG Washing Machine,22200.0,6660.0,37
+ Portland,Lightning Charging Cable,22888.449999999997,6866.535000000002,1531
+ Portland,Macbook Pro Laptop,572900.0,171870.0,337
+ Portland,ThinkPad Laptop,273997.26,82199.17800000001,274
+ Portland,USB-C Charging Cable,18904.899999999998,5671.470000000001,1582
+ Portland,Vareebadd Phone,49600.0,14880.0,124
+ Portland,Wired Headphones,16330.380000000001,4899.114000000001,1362
+ Portland,iPhone,315000.0,94500.00000000003,450
+ San Francisco,20in Monitor,109990.0,32997.0,1000
+ San Francisco,27in 4K Gaming Monitor,569385.4,170815.62000000002,1460
+ San Francisco,27in FHD Monitor,272081.86000000004,81624.55800000002,1814
+ San Francisco,34in Ultrawide Monitor,549465.54,164839.662,1446
+ San Francisco,AA Batteries (4-pack),25171.2,7551.360000000001,6555
+ San Francisco,AAA Batteries (4-pack),22149.920000000002,6644.9760000000015,7408
+ San Francisco,Apple Airpods Headphones,559950.0,167985.0,3733
+ San Francisco,Bose SoundSport Headphones,331666.82999999996,99500.049,3317
+ San Francisco,Flatscreen TV,346200.0,103860.0,1154
+ San Francisco,Google Phone,814800.0,244440.0,1358
+ San Francisco,LG Dryer,85800.0,25740.0,143
+ San Francisco,LG Washing Machine,108000.0,32400.0,180
+ San Francisco,Lightning Charging Cable,83077.15,24923.145000000008,5557
+ San Francisco,Macbook Pro Laptop,1931200.0,579360.0,1136
+ San Francisco,ThinkPad Laptop,962990.37,288897.1110000001,963
+ San Francisco,USB-C Charging Cable,70433.3,21129.990000000005,5894
+ San Francisco,Vareebadd Phone,197600.0,59280.0,494
+ San Francisco,Wired Headphones,59542.340000000004,17862.702000000005,4966
+ San Francisco,iPhone,1162700.0,348810.0000000001,1661
+ Seattle,20in Monitor,35636.759999999995,10691.028,324
+ Seattle,27in 4K Gaming Monitor,209814.62,62944.386000000006,538
+ Seattle,27in FHD Monitor,86844.21,26053.26300000001,579
+ Seattle,34in Ultrawide Monitor,202914.66,60874.39800000001,534
+ Seattle,AA Batteries (4-pack),8367.36,2510.208,2179
+ Seattle,AAA Batteries (4-pack),7313.540000000001,2194.062000000001,2446
+ Seattle,Apple Airpods Headphones,188700.0,56610.0,1258
+ Seattle,Bose SoundSport Headphones,106189.37999999999,31856.814,1062
+ Seattle,Flatscreen TV,112500.0,33750.0,375
+ Seattle,Google Phone,260400.0,78120.0,434
+ Seattle,LG Dryer,33600.0,10080.0,56
+ Seattle,LG Washing Machine,34800.0,10440.0,58
+ Seattle,Lightning Charging Cable,26536.25,7960.875000000002,1775
+ Seattle,Macbook Pro Laptop,605200.0,181560.0,356
+ Seattle,ThinkPad Laptop,332996.67,99899.00100000002,333
+ Seattle,USB-C Charging Cable,22334.55,6700.365000000002,1869
+ Seattle,Vareebadd Phone,71600.0,21480.0,179
+ Seattle,Wired Headphones,19807.48,5942.244000000002,1652
+ Seattle,iPhone,382200.0,114660.00000000003,546
